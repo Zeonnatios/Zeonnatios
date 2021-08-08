@@ -31,7 +31,7 @@ I'm passionate about technology and how it affects people's lives, which makes m
 
  <div align="center">
   <a href="https://github.com/Zeonnatios">
-  <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=zeonnatios&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false"/>
+  <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=zeonnatios&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeonnatios&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
