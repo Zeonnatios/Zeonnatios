@@ -1,4 +1,4 @@
-<h1 align="center">Hi👋</h1>
+<h1 align="center">Olá👋</h1>
 Me chamo <b>Matheus "Zeonnatios" Antonio da Silva</b>, sou de São Paulo, Brasil, atualmente estou estudando Desenvolvimento Web Full Stack na <a href="https://www.betrybe.com/" target="_blank">Trybe</a>.
 Sou apaixonado por tecnologia, principalmente pela forma que ela afeta a vida das pessoas por meio da programação. Desejo participar de projetos que agreguem positivamente a vida das pessoas.
 
