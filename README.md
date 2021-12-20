@@ -22,7 +22,7 @@
 &nbsp;
 <div align="center">
   <a href="https://www.linkedin.com/in/matheusantonio99/" target="_blank" > 
-    <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/linkedin_button_icon_151847.png"   alt="linkedin-icon" width="120px" /> 
+    <img src="https://cdn.icon-icons.com/icons2/2530/PNG/256/linkedin_button_icon_151847.png"   alt="linkedin-icon" width="256px" /> 
   </a>
   <a href="mailto:matheusantonio232@gmail.com" target="_blank" >
     <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/gmail_button_icon_151848.png" alt="gmail-icon" width="100px" />
@@ -39,7 +39,7 @@
   <img align="center" alt="Java-ICON" width="50ps" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/java/java-original.svg" />
   <img align="center" alt="JS-ICON" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
   <img align="center" alt="React-ICON" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
-  <img align="center" alt="React-ICON" width="50px" src="  https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/nodejs/nodejs-original-wordmark.svg" />
+  <img align="center" alt="Node-ICON" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/nodejs/nodejs-original-wordmark.svg" />
   <img align="center" alt="Jest-ICON" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" />
   <img align="center" alt="MySQL ICON" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/mysql/mysql-original-wordmark.svg" />
   <img align="center" alt="MongoDB ICON" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/mongodb/mongodb-original-wordmark.svg" />
