@@ -12,7 +12,7 @@
 <h2 align="center">Contact me: </h2>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/matheusantonio99/" target="_blank" > 
+  <a href="https://www.linkedin.com/in/matheusantoniosilva/" target="_blank" > 
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin-icon" /> 
   </a>
   <a href="mailto:matheusantonio232@gmail.com" target="_blank" >
