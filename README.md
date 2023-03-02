@@ -41,3 +41,12 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+
+<h2 align="center">Status</h2>
+
+
+ <div align="center">
+  <a href="https://github.com/Zeonnatios">
+  <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=zeonnatios&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeonnatios&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
